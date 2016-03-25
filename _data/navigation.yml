@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Pantry
+  url: /pantry/
+
+- title: Recipes
+  url: /recipes/
+
+- title: Search
+  url: /search/

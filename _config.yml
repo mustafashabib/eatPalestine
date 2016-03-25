@@ -1,0 +1,77 @@
+# Site wide configuration
+
+title: EAT PALESTINE
+locale: en_US
+description: > # this means to ignore newlines until "baseurl:"
+    Growing up, my mother made a huge variety of classic Palestinian dishes with
+    a vegetarian or vegan friendly variations to suit my father's diet.
+    When I finally left Chicago,  where we grew up, and moved to Seattle
+    in 2013 with my wife Jonnie, we no longer had easy access to my mom's
+    delicious cooking and so we spent the year recreating her recipes so
+    that we could enjoy them in our new home.
+logo: site-logo.png
+search: true
+url: http://localhost:4000
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Octopress
+
+# Default extensions
+post_ext: md
+page_ext: md
+
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+
+# Site owner
+owner:
+  name: Mustafa Shabib and
+  avatar: bio-photo.jpg
+  email: mustafashabib@gmail.com
+  disqus-shortname:
+  twitter: eatpalestine
+  facebook: #username
+  github: #username
+  stackexchange: #username
+  linkedin: #username
+  instagram: eatpalestine
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
