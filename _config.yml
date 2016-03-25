@@ -9,12 +9,19 @@ description: > # this means to ignore newlines until "baseurl:"
     in 2013 with my wife Jonnie, we no longer had easy access to my mom's
     delicious cooking and so we spent the year recreating her recipes so
     that we could enjoy them in our new home.
-logo: site-logo.png
 search: true
 url: http://localhost:4000
 
 # Jekyll configuration
-
+collections:
+  recipes:
+    output: true
+defaults:
+  - scope:
+      path: "recipes"
+      type: recipes
+    values:
+      layout: page
 permalink:   /:categories/:title/
 markdown:    kramdown
 highlighter: rouge
@@ -54,9 +61,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Mustafa Shabib and
+  name: Mustafa Shabib and Jonnie Rettele
   avatar: bio-photo.jpg
-  email: mustafashabib@gmail.com
+  email: hello@eatpalestine.com
   disqus-shortname:
   twitter: eatpalestine
   facebook: #username
