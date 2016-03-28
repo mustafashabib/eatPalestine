@@ -6,9 +6,7 @@ excerpt: "How to prepare basic dough."
 categories: recipes
 tags: [recipes, staples, dough, ajeenah, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Pita.jpg
 comments: false
 share: true
 ---

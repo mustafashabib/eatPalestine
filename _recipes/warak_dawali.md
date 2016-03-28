@@ -6,9 +6,7 @@ excerpt: "Lemony rice stuffed grape leaves."
 categories: recipes
 tags: [recipes, appetizers, meals, grape leaves, dolmades, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: GrapeLeaves_edited1.jpg
 comments: false
 share: true
 ---

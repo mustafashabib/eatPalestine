@@ -6,9 +6,7 @@ excerpt: "Stretchy Arabic ice cream made with crushed orchid root, mastic gum, a
 categories: recipes
 tags: [arabic, recipes, desserts, ice cream, booza, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: ArabicIceCream_edited.jpg
 comments: false
 share: true
 ---

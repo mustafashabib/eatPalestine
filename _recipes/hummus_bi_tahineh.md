@@ -6,9 +6,7 @@ excerpt: "Creamy chick pea and tahini dip full of lemon and a hint of garlic."
 categories: recipes
 tags: [recipes, staples, hummus, chick pea, dips, Palestinian, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Hummus_edited.jpg
 comments: false
 share: true
 ---

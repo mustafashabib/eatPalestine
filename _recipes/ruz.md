@@ -6,9 +6,7 @@ excerpt: "A basic rice recipe for your daily meals."
 categories: recipes
 tags: [recipes, ruz, rice, staples, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: rice_edited.jpg
 comments: false
 share: true
 ---

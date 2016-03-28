@@ -6,9 +6,7 @@ excerpt: "An amazingly delicious mix of finely chopped parsley, tomatoes, and bu
 categories: recipes
 tags: [recipes, salads, tabbouleh, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Tabbouleh_edited.jpg
 comments: false
 share: true
 ---

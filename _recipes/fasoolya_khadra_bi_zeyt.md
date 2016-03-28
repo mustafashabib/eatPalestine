@@ -6,9 +6,7 @@ excerpt: "A fresh and lemony green bean and tomato stew."
 categories: recipes
 tags: [recipes, meals, green beans, stew, olive oil, fasoolya, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: GreenBeans_edited.jpg
 comments: false
 share: true
 ---

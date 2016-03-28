@@ -6,9 +6,7 @@ excerpt: "Palestinian stuffed savory pies."
 categories: recipes
 tags: [recipes, meals, spinach, saffayeh, fattayer, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: SpinachPies_edited2.jpg
 comments: false
 share: true
 ---

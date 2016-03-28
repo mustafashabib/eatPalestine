@@ -6,9 +6,7 @@ excerpt: "Fresh green fava beans sauteed with cilantro and garlic."
 categories: recipes
 tags: [recipes, meals, fava beans, cilantro, garlic, stew, olive oil, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: FavaBeans_edited.jpg
 comments: false
 share: true
 ---

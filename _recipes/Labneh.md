@@ -6,9 +6,7 @@ excerpt: "A simple strained yogurt cheese served for dipping with flatbread or v
 categories: recipes
 tags: [recipes, staples, labneh, yogurt, dips, Palestinian, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Labneh_edited.jpg
 comments: false
 share: true
 ---

@@ -6,9 +6,7 @@ excerpt: "A uniquely delicious and silky soup made of crushed green jute leaf, p
 categories: recipes
 tags: [recipes, mulukhiya, jute leaf, soups, Palestinian, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Molokhia_edited.jpg
 comments: false
 share: true
 ---

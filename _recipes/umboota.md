@@ -6,9 +6,7 @@ excerpt: "Deep fried cauliflower florets dusted with sumac, salt, and black pepp
 categories: recipes
 tags: [recipes, appetizers, umboota, fried, cauliflower, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: FriedCauliflower_edited.jpg
 comments: false
 share: true
 ---

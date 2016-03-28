@@ -6,9 +6,7 @@ excerpt: "How to prepare Arabic coffee."
 categories: recipes
 tags: [recipes, staples, coffee, ahweh]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: ArabicCoffee_edited.jpg
 comments: false
 share: true
 ---

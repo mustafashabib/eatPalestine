@@ -6,9 +6,7 @@ excerpt: "Freekeh is a smokey grain, prepared here with nuts and served like ric
 categories: recipes
 tags: [recipes, meals, freekeh, roasted green wheat, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Freekah_edited.jpg
 comments: false
 share: true
 ---

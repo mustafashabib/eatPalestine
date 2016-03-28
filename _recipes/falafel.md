@@ -6,9 +6,7 @@ excerpt: "Super fresh and crispy falafel recipe. A crunchy brown shell on the ou
 categories: recipes
 tags: [recipes, staples, chick pea, fritters, falafel, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Falafel_edited.jpg
 comments: false
 share: true
 ---

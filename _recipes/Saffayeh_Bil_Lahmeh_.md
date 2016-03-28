@@ -6,9 +6,7 @@ excerpt: "Open faced savory pies stuffed with spiced beef and pomegranate marina
 categories: recipes
 tags: [recipes, meat pies, saffayeh, fattayer, beef, pomegranate, appetizers]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: MeatPies_edited1.jpg
 comments: false
 share: true
 ---

@@ -6,9 +6,7 @@ excerpt: "The King of all salads, fattoush - a flavorful mix of vegetables with 
 categories: recipes
 tags: [recipes, salads, fattoush, sumac, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Fattoush_edited2.jpg
 comments: false
 share: true
 ---

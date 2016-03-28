@@ -6,9 +6,7 @@ excerpt: "Breakfast, Palestinian style"
 categories: recipes
 tags: [recipes, staples, meals, ftoor, breakfast, Palestinian, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: breakfast.jpg
 comments: false
 share: true
 ---

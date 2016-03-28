@@ -6,9 +6,7 @@ excerpt: "A simple salad of cucumbers, tomatoes, mint, lemon juice, and tahini."
 categories: recipes
 tags: [recipes, salads, jerusalem, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: JerusalemSalad_edited.jpg
 comments: false
 share: true
 ---

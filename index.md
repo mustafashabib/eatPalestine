@@ -3,8 +3,7 @@ layout: page
 title: EAT PALESTINE
 excerpt: "How inspiration from and desperation for my mom's cooking brought EAT PALESTINE together."
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Mustafa and Jonnie
+  feature: cover-fava.jpg
 
 creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 share: true

@@ -6,9 +6,7 @@ excerpt: "Deceptively simple yet delicious casserole made from layered fried egg
 categories: recipes
 tags: [recipes, musa'akka, fried eggplant, Palestinian, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: FriedEggplant_edited.jpg
 comments: false
 share: true
 ---

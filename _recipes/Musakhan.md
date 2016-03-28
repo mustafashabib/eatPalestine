@@ -6,9 +6,7 @@ excerpt: "Spiced and roasted chicken layered between olive oil soaked bread and 
 categories: recipes
 tags: [recipes, musakhan, roasted chicken, sumac, onion, jaffa, yaffa, Palestinian, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Musakhan.jpg
 comments: false
 share: true
 ---

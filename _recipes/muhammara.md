@@ -6,9 +6,7 @@ excerpt: "An amazingly delicious roasted red pepper and walnut dip."
 categories: recipes
 tags: [recipes, muhammara, roasted red pepper, dips, Palestinian, vegan, vegetarian]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: Muhammara.jpg
 comments: false
 share: true
 ---
