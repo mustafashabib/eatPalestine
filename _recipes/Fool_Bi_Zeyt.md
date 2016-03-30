@@ -12,13 +12,14 @@ comments: false
 share: true
 ---
 
-### Fool Bi'Zeyt
-#### Green Fava Beans in Olive Oil
+
+
 
 *Fresh green fava beans are sometimes hard to find at the store due to their very short season but you can use frozen beans without hurting the flavors of this dish too much.*
 
-##### Ingredients
-###### Makes 6 servings
+#### Ingredients
+
+##### Makes 6 servings
 
 * Green fava beans
     - 2 lbs.
@@ -35,7 +36,8 @@ share: true
 * Fresh lemon
     - A few slices
 
-##### Recipe
+#### Recipe
+
 1. In a large pan, sauté the onions in olive oil until translucent.
 2. Add the shelled broad beans and cook until they are cooked through but still firm, around 30 or 40 minutes. You can add 1/4 cup of water near the end to soften them.
 3. Finely chop the cilantro and mince the garlic while the beans are cooking. Near the end of the cooking time, add them to the pan.

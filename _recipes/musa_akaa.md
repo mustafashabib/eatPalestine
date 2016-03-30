@@ -12,13 +12,14 @@ comments: false
 share: true
 ---
 
-### Musa'akaa
-#### Layered Fried Eggplant And Tomato
+
+
 
 *This is one of my father's favorite meals and will forever be linked to him in my mind. It's very simple to prepare but has a lot of depth and flavor. For people who think they don't like eggplant, this meal usually makes them change their mind. My dad swears by grating a potato into the sauce to thicken it up before layering.*
 
-##### Ingredients
-###### Makes 6 servings
+#### Ingredients
+
+##### Makes 6 servings
 
 * Black Beauty or Italian eggplant
   - 2 large
@@ -33,7 +34,8 @@ share: true
 * Vegetable oil
   - for frying
 
-##### Recipe
+#### Recipe
+
 1. Cut off the stems of the eggplants and thinly slice them into 1/2 inch thick discs.
 2. Salt the eggplant slices and set them aside to drain for 15-20 minutes.
 3. Heat the oil in a deep skillet and fry the slices in batches until they are golden brown and crispy.

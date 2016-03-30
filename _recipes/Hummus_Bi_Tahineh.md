@@ -12,13 +12,14 @@ comments: false
 share: true
 ---
 
-### Hummus Bi'Tahineh
-#### Chick Pea With Sesame Paste
+
+
 
 *Hummus is the most recognizable Levantine dish found all around the globe and is served at nearly every Palestinian meal. For the curious, hummus means chick pea in Arabic, so all of the delicious bean dips you can find lining the store shelves today with the name hummus that lack chick peas are a misnomer.*
 
-##### Ingredients
-###### Makes 4 servings
+#### Ingredients
+
+##### Makes 4 servings
 
 * Dried chick peas
   - 1/4 cup
@@ -39,7 +40,8 @@ share: true
 * Salt
   - To taste
 
-##### Recipe
+#### Recipe
+
 1. Add enough water to cover the chick peas, add the baking soda, and let it soak for a  4 to 8 hours until they're mostly soft.
 2. Drain and rinse the chick peas, add them to a pot, and pour enough water in to cover them.
 3. Bring to a boil, reduce the heat, and let it simmer for another hour or so until they are very soft. Skim off any foam that forms and add more water as needed.

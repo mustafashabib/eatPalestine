@@ -12,12 +12,11 @@ comments: false
 share: true
 ---
 
-### Booza
-#### Arabic Ice Cream
 *Arabic ice cream has a unique stretchy texture from the sahlab powder and light flavor from the mastic gum and blossom water. Also, due to the fact that it's made only with milk instead of cream and eggs like typical ice cream, it has a lightness to it. Before you go crazy trying to hunt it down, I should mention that real sahlab powder is extremely difficult to find, so you can replace it with corn starch. Don't skip the mastic gum, though as it is responsible for most of the unique flavor.*
 
-##### Ingredients
-###### Makes about two pints
+#### Ingredients
+
+##### Makes about two pints
 
 * Whole milk
   - 4 cups
@@ -32,7 +31,8 @@ share: true
 * Pistachios
   - 1/2 cup
 
-##### Recipe
+#### Recipe
+
 1. Before starting, crush the mastic gum and about 1/2 teaspoon of sugar together with the back of a spoon.
 2. In a saucepan, warm the milk then remove from the heat and set aside.
 3. In a small bowl, dissolve the sahlab or corn starch with some cold water.

@@ -11,13 +11,14 @@ image:
 comments: false
 share: true
 ---
-### Salatet Khiar
-#### Cucumber, Yogurt, and Mint Salad
+
+
 
 *This is a stand by salad you'll find served with many rice dishes or as part of one of the many mazzat dishes at the start of a meal. I grew up eating it without garlic, though it traditionally has a little bit in it, if you like it.*
 
-##### Ingredients
-###### Makes 8 servings
+#### Ingredients
+
+##### Makes 8 servings
 
 * Whole milk yogurt
     -  2 cups
@@ -32,7 +33,8 @@ share: true
 * Extra virgin olive oil
     - 1 teaspoon
 
-##### Recipe
+#### Recipe
+
 1. Peel and dice the cucumbers, sprinkle with salt, and let them drain a little bit.
 2. Mince the garlic if you are using any.
 3. Discard any liquid that may have collected on top of the yogurt and mix in the mint, the salt, and the garlic if you decide to use any.  

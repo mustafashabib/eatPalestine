@@ -12,13 +12,14 @@ comments: false
 share: true
 ---
 
-### Umboota
-#### Fried Cauliflower
+
+
 
 *I've always been surprised by how uncommon fried cauliflower is across other cuisines since I find it as delicious and versatile as a plate of french fries. Most people who try this dish agree. Growing up, we called this dish Umboota but I later learned that almost nobody else in the world except people from my family's hometown of Yaffa refer to this dish by that name. To everyone else,  it is Zahra Ma'leeyah.*
 
-##### Ingredients
-###### Makes 4 servings
+#### Ingredients
+
+##### Makes 4 servings
 
 * Cauliflower
   - 2 medium heads
@@ -29,7 +30,8 @@ share: true
 * Salt and black pepper
   - To taste
 
-##### Recipe
+#### Recipe
+
 
 1. Heat the oil in a deep pan or pot.
 2. Break up the cauliflower into their individual florets. For especially big ones, cut them smaller. You want them to be small enough to fry quickly in the amount of oil you have.

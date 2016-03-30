@@ -11,13 +11,14 @@ image:
 comments: false
 share: true
 ---
-### Mulukhiya
-#### Jute Leaf Soup
+
+
 
 *This soup is made from the leaves of a Jute plant, an okra relative, and like okra has a viscous texture when boiled, which makes it an acquired taste. There are lots of variations on this recipe and it's most classically made with chicken though I prefer the vegetarian version described below. You'll usually find the leaves in the frozen section  of any respectable Middle Eastern market, and less commonly you may find it fresh. Look for some similarly transliterated version of "Mulukhiya", "Jute Leaves", or "Jew's Mallow".*
 
-##### Ingredients
-###### Makes 6 servings
+#### Ingredients
+
+##### Makes 6 servings
 
 * Mulukhiya leaves
     - 28 oz minced
@@ -43,7 +44,8 @@ share: true
     - 1 large
 * Rice
 
-##### Recipe
+#### Recipe
+
 1. Dice and sauté the onion in the oil until it's translucent.
 2. In a mortar and pestle grind the coriander and garlic together.
 3. Add the garlic-coriander mixture and fry until the golden. Be careful not to burn the garlic, it'll turn bitter.

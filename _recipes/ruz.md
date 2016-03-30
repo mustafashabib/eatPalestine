@@ -11,13 +11,14 @@ image:
 comments: false
 share: true
 ---
-### Ruz
-#### Rice
+
+
 
 *Growing up, we ate rice almost every day. Here's a basic recipe you can use to serve in most of the stew recipes found here. Depending on your tastes, you can use almost any medium or long grain of rice that you like; we use mostly Egyptian, Jasmine, or Basmati.*
 
-##### Ingredients
-###### Makes 8 servings
+#### Ingredients
+
+##### Makes 8 servings
 
 * Rice
     - 3 cups
@@ -30,7 +31,8 @@ share: true
 * Salt
     - 2 teaspoons
 
-##### Recipe
+#### Recipe
+
 1. Wash the rice in a colander until the water runs clear and set aside to drain.
 2. Fry the noodles in one tablespoon of oil until golden and set aside.
 3. Heat the remaining oil in a pot and lightly sauté the rice for a few minutes.

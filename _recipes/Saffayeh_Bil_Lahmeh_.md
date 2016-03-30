@@ -11,13 +11,14 @@ image:
 comments: false
 share: true
 ---
-### Saffayeh Bil Lahmeh
-#### Meat Pies
+
+
 
 *Delicious two-bite sized savory pies that are especially good with a spoon of tart yogurt on top. You can use beef, lamb, or a mixture for the meat if you prefer. We like to use a pomegranate molasses and tomato paste mixture but again you can change the ratios or omit one or the other to your tastes.*
 
-##### Ingredients
-###### Makes about 24 pies
+#### Ingredients
+
+##### Makes about 24 pies
 
 * Basic dough
   - 1 batch
@@ -38,7 +39,8 @@ share: true
 * Black pepper
   - 1 teaspoon
 
-##### Recipe
+#### Recipe
+
 1. Make a batch of dough (see the **Ajeenah** recipe).
 2. Preheat your oven to 450° F.
 3. Dice and sauté the onions in vegetable oil until translucent.

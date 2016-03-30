@@ -12,13 +12,9 @@ comments: false
 share: true
 ---
 
-### Ahweh
-
-#### Coffee
-
 *In the Middle East, you'll be offered an option to order the coffee one of three ways: **saddah** (black, no sugar), **wasat** (medium) - a reasonable amount of sugar, and **hilweh** (sweet) - an incredible amount of sugar. My grandpa likes it so sweet the he always has to get his coffee made separate. The coffee is served in low demitasse cups and, if you want a little fun, can be turned over after drinking to read your future in the images left behind by the grounds.*
 
-##### Ingredients
+#### Ingredients
 
 -	Ground Coffee
 	-	1 teaspoon per cup of coffee
@@ -29,7 +25,7 @@ share: true
 -	Water
 	-	As needed
 
-##### Recipe
+#### Recipe
 
 1.	Measure the water to put in the pot - one demitasse cup of water per cup you wish to prepare.
 2.	Add the sugar, coffee, and cardamom, stir, and heat it to a rolling boil.

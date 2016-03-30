@@ -12,13 +12,14 @@ comments: false
 share: true
 ---
 
-### Freekeh
-#### Roasted Green Wheat
+
+
 
 *Freekeh is a roasted green wheat with a nutty and smokey flavor that can be served in most of the same dishes as rice. You can omit all of the nuts and apricot in this recipe and eat it plainly or use it in a broth soup similar to how you would cook rice, barley, or noodles.*
 
-##### Ingredients
-###### Makes 8 servings
+#### Ingredients
+
+##### Makes 8 servings
 
 * Freekeh
     - 2 cups
@@ -37,7 +38,8 @@ share: true
 * Salt
     - 2 teaspoons
 
-##### Recipe
+#### Recipe
+
 1. Wash the freekeh in a colander until the water runs clear and set aside to drain.
 2. Add the olive oil in a small pot on medium heat.
 3. Add the freekeh and salt and sauté for a couple of minutes to accentuate the smokey flavor.

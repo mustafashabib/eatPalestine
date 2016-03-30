@@ -11,13 +11,14 @@ image:
 comments: false
 share: true
 ---
-### Labneh
-#### Yogurt Cheese
+
+
 
 *Labneh is a simple cheese made from yogurt. It's especially popular at breakfast time with some flat bread, cucumbers, zaatar, and tomatoes.*
 
-##### Ingredients
-###### Makes 4 servings
+#### Ingredients
+
+##### Makes 4 servings
 * Fresh yogurt
   - 1 quart
 * Salt
@@ -27,7 +28,8 @@ share: true
 * Fresh herbs (Mint, Oregano, Basil, etc)
   - To your tastes, for garnishing.
 
-##### Recipe
+#### Recipe
+
 1. Line a fine mesh strainer or colander with cheesecloth or paper towels.
 2. Mix the salt and yogurt together and pour into the lined strainer.
 3. Gather up the ends of the cloth and tie them together.

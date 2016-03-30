@@ -12,12 +12,13 @@ comments: false
 share: true
 ---
 
-### Fasoolya Khadra Bi'Zeyt
-#### Green Beans In Olive Oil
+
+
 *This is a simple and fresh tasting stew that Jonnie and I started making when we had an overabundance of green beans and tomatoes from our garden. If you can't get your hands on fresh ingredients, frozen beans and canned tomatoes will still make a pretty tasty dish. This same recipe works well with almost any kind of fresh green bean.*
 
-##### Ingredients
-###### Makes 4 servings
+#### Ingredients
+
+##### Makes 4 servings
 
 * Fresh green beans
   - 2 lbs
@@ -34,7 +35,8 @@ share: true
 * Parsley
     - 1/2 bunch
 
-##### Recipe
+#### Recipe
+
 1. Wash and trim the ends off of the green beans.
 2. Finely dice the tomatoes and set aside.
 3. Thinly slice the onion and sauté the onions until translucent.

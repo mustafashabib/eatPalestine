@@ -10,13 +10,14 @@ image:
 comments: false
 share: true
 ---
-### Fattoush
-#### Mixed Salad With Pita Chips And Sumac Dressing
+
+
 
 * I go back and forth between declaring fattoush or tabbouleh the "King of All Salads", though fattoush definitely takes more effort having so many more ingredients. Try extra hard to get fresh purslane as it is a key ingredient in making this salad taste the way that it should.*
 
-##### Ingredients
-###### Makes 6 servings
+#### Ingredients
+
+##### Makes 6 servings
 
 * Romaine lettuce
   -  1 head
@@ -43,7 +44,8 @@ share: true
 * Sumac
   - 1 tablespoon
 
-##### Recipe
+#### Recipe
+
 
 1. Peel the cucumbers and finely dice them and the tomatoes.
 2. Thinly slice the radishes.

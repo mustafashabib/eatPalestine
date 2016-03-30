@@ -11,12 +11,13 @@ image:
 comments: false
 share: true
 ---
-### Mana'eesh Zaatar
-#### Thyme Flatbread
+
+
 *Mana'eesh are simple flatbreads baked like a pizza with any number of toppings. Here's the one I like, topped with Zaatar and tomatoes. These days you'll also find them topped with cheese, ground lamb or beef, or even eggs, though zaatar is the classic recipe.*
 
-##### Ingredients
-###### Makes 2 large flatbreads
+#### Ingredients
+
+##### Makes 2 large flatbreads
 
 * Basic dough
   - 1 batch
@@ -27,7 +28,8 @@ share: true
 * Olive oil
   - 1/4 cup
 
-##### Recipe
+#### Recipe
+
 
 1. Make a batch of dough (see the **Ajeenah** recipe).
 2. Preheat your oven to 450° F.

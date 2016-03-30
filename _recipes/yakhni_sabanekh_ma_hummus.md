@@ -11,12 +11,12 @@ image:
 comments: false
 share: true
 ---
-### Yakhni Sabanekh Ma Hummus
-#### Spinach and Chick Pea Stew
+
+
 
 *This was always one of my favorite dishes growing up. It's really easy to make, filling, and delicious with a lot of fresh spring flavors.*
 
-##### Ingredients
+#### Ingredients
 ######Makes 6 servings
 
 * Fresh Spinach
@@ -33,7 +33,8 @@ share: true
     - 1 lemon
 * Rice
 
-##### Recipe
+#### Recipe
+
 1. Dice the onion.
 2. Heat the oil in a large pot.
 3. Sauté the onion until translucent.

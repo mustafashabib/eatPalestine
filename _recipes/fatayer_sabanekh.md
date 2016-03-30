@@ -11,13 +11,14 @@ image:
 comments: false
 share: true
 ---
-### Fatayer Sabanekh
-#### Spinach Pies
+
+
 
 *Fattayer are similar to saffayeh only typically closed up  around the filling instead of remaining open. These here are filled with spinach, onions, lemon juice, and sumac and work as a light snack or appetizer. For a heartier variation, use potatoes, peas, onions, black pepper, and allspice for the filling instead.*
 
-##### Ingredients
-###### Makes about 24 pies
+#### Ingredients
+
+##### Makes about 24 pies
 
 * Basic dough
   - 1 batch
@@ -38,7 +39,8 @@ share: true
 * Black pepper
   - 1 teaspoon
 
-##### Recipe
+#### Recipe
+
 1. Make a batch of dough (see the **Ajeenah** recipe).
 2. Preheat your oven to 450° F.
 3. Dice the onions and roughly chop the spinach.

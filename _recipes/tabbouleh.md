@@ -11,13 +11,14 @@ image:
 comments: false
 share: true
 ---
-### Tabbouleh
-#### Parsley And Bulgur Wheat Salad
+
+
 
 *Our buddy Ka Wai has confessed that he wishes tabbouleh was a Chinese dish so that they could claim credit for bringing it into the world. If that's not enough to convince you that this is one of the best salads ever to grace the planet, I'm not sure anything ever will.*
 
-##### Ingredients
-###### Makes 6 servings
+#### Ingredients
+
+##### Makes 6 servings
 
 * Fresh Italian parsley
   - 4 bunches
@@ -40,7 +41,8 @@ share: true
 * Salt and pepper
   - To taste
 
-##### Recipe
+#### Recipe
+
 1. Bring the water to a boil and pour it over the bulgur wheat. Let it soak until it is soft, roughly 20 to 30 minutes, while you prepare the rest of the salad.
 2. Remove the stems from the parsley and mint and chop very finely. This is where the mezzaluna knife comes in handy.
 3. Finely dice the tomato, removing any seeds and juice.

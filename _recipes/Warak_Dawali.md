@@ -12,13 +12,14 @@ comments: false
 share: true
 ---
 
-### Warak Dawali
-#### Stuffed Grape Leaves
+
+
 
 *It may seem intimidating but it isn't difficult to make this recipe at home, though it is a bit of a time commitment. Don't worry if your rolls don't end up elegant and thin, they taste just as good when they're squat and fat, which is the only way my stubby fingers make them. Though this recipe can be prepared with meat and served warm, I prefer it vegetarian at room temperature.*
 
-##### Ingredients
-###### Makes 6 servings
+#### Ingredients
+
+##### Makes 6 servings
 
 * White medium or short grain rice
     - 1 1/2 cups
@@ -45,7 +46,8 @@ share: true
 * Salt and black pepper
     - To taste
 
-##### Recipe
+#### Recipe
+
 1. Wash and drain the rice.
 2. Chop the parsley, finely
 3. Dice onions

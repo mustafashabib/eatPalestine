@@ -11,13 +11,14 @@ image:
 comments: false
 share: true
 ---
-### Musakhan
-#### Roasted Chicken With Sumac
+
+
 
 *Musakhan means heated in Arabic and it's a name that entirely fails to capture the deliciousness of this meal. If you're vegetarian, you can omit the chicken and instead turn it into a kind of flat bread appetizer. Taboon bread, a large flatbread that's about 8" in diameter and 1/8" thick is traditionally used but if you can't find it you can make your own or even use regular pita that you split open and layer.*
 
-##### Ingredients
-###### Makes 6 servings
+#### Ingredients
+
+##### Makes 6 servings
 
 * Whole chicken
   - 1 roaster chicken
@@ -38,7 +39,8 @@ share: true
 * Fresh lemon juice
   - Half a large lemon or about 1/8 of a cup of lemon juice
 
-##### Recipe
+#### Recipe
+
 1. Wash and clean the chicken. Rub lemon juice and a drizzle of olive oil all over it and under the skin and cut into pieces.
 2. Finely dice two of the onions and sauté them until translucent in a large pot.
 3. Add the chicken and brown it on all sides.
@@ -50,7 +52,8 @@ share: true
 9. Transfer the chicken from the first pot (reserve all the liquid, though) and add it to the pot with onions and sumac cook together for about 10 minutes.
 10. Transfer the chicken one more time from the pot of onions to a baking dish and roast it in the oven until golden brown.
 
-###### To Assemble and Serve
+
+##### To Assemble and Serve
 1. Dip the bread in the chicken broth from the first pot and lay it in another baking dish. Alternatively, or if you're preparing this as a vegetarian, you can soak the bread in olive oil.
 2. Add a layer of the cooked onions on top of the layer of bread. Broil in the oven for a few minutes until golden.
 3. Repeat the same layering process three or four more times.

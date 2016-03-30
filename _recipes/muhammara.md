@@ -11,13 +11,14 @@ image:
 comments: false
 share: true
 ---
-### Muhammara
-#### Roasted Red Pepper and Walnut Dip
+
+
 
 *Jonnie visited Jordan and had this for the first time at one of our favorite restaurants called Reem Al Bawadi and she said, in her best Oh My God Valley Girl In A Mall Voice "Like, why are people wasting their time with hummus when this exists?!", and with with an eye roll, concluded, "I mean, seriously." Wiser words have yet to be heard by your humble narrator's ears, despite my attachment to hummus.*
 
-##### Ingredients
-###### Makes 4 servings
+#### Ingredients
+
+##### Makes 4 servings
 
 * Walnuts
     - 1/2 cup
@@ -40,7 +41,8 @@ share: true
 * Extra virgin olive oil
     - 1/8 cup
 
-##### Recipe
+#### Recipe
+
 1. Preheat your oven to 200° F.
 2. Roast the walnuts for about 10 minutes.
 3. If you're using fresh bell pepper, roast them until the skin is black then peel.
