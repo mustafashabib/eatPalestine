@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Muhammara · Roasted Red Pepper and Walnut Dip
+title: Muhammara
+subtitle: Roasted Red Pepper and Walnut Dip
 excerpt: "An amazingly delicious roasted red pepper and walnut dip."
 
 categories: recipes

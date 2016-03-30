@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Fool Bi'Zeyt · Green Fava Beans in Olive Oil
+title: Fool Bi'Zeyt
+subtitle: Green Fava Beans in Olive Oil
 excerpt: "Fresh green fava beans sauteed with cilantro and garlic."
 
 categories: recipes

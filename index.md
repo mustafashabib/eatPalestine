@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EAT PALESTINE
+title: Eat Palestine
 excerpt: "How inspiration from and desperation for my mom's cooking brought EAT PALESTINE together."
 image:
   feature: cover-fava.jpg

@@ -90,6 +90,25 @@ span + .entry-title {
 	}
 }
 
+.entry-subtitle {
+	font-family: $alt-font;
+	font-style: italic;
+	@include font-size(24,yes,24);
+	font-weight: 300;
+	line-height: 1;
+	letter-spacing: -3px;
+	a {
+		color: $black;
+		text-decoration: underline;
+	}
+	@include media($medium) {
+		@include font-size(39,yes,41);
+	}
+	@include media($large) {
+		@include font-size(51,yes,54);
+	}
+}
+
 /* page/post wrapper */
 
 .entry-wrapper {

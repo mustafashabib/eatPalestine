@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Saffayeh Bil Lahmeh · Meat Pies
+title: Saffayeh Bil Lahmeh
+subtitle: Meat Pies
 excerpt: "Open faced savory pies stuffed with spiced beef and pomegranate marinade."
 
 categories: recipes

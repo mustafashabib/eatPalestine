@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Salatah Arabeeya · Jerusalem Salad
+title: Salatah Arabeeya
+subtitle: Jerusalem Salad
 excerpt: "A simple salad of cucumbers, tomatoes, mint, lemon juice, and tahini."
 
 categories: recipes

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Labneh · Yogurt Cheese
+title: Labneh
+subtitle: Yogurt Cheese
 excerpt: "A simple strained yogurt cheese served for dipping with flatbread or vegetables."
 
 categories: recipes

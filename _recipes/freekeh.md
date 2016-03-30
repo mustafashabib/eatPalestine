@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Freekeh · Roasted Green Wheat
+title: Freekeh
+subtitle: Roasted Green Wheat
 excerpt: "Freekeh is a smokey grain, prepared here with nuts and served like rice."
 
 categories: recipes

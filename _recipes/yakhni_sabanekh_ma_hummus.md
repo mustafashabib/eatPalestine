@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Yakhni Sabanekh Ma Hummus · Spinach and Chick Peak Stew
+title: Yakhni Sabanekh Ma Hummus
+subtitle: Spinach and Chick Peak Stew
 excerpt: "Lemony stew of fresh spinach, onions, and chick peas."
 
 categories: recipes

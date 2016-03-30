@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Ruz · Rice
+title: Ruz
+subtitle: Rice
 excerpt: "A basic rice recipe for your daily meals."
 
 categories: recipes

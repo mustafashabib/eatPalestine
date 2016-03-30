@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Ahweh · Coffee
+title: Ahweh
+subtitle: Coffee
 excerpt: "How to prepare Arabic coffee."
 
 categories: recipes

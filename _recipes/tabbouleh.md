@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Tabbouleh · Parsley and Bulgur Wheat Salad
+title: Tabbouleh
+subtitle: Parsley and Bulgur Wheat Salad
 excerpt: "An amazingly delicious mix of finely chopped parsley, tomatoes, and bulgur wheat served with lots of olive oil and lemon juice."
 
 categories: recipes

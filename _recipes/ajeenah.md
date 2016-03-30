@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Ajeenah · Dough
+title: Ajeenah
+subtitle: Dough
 excerpt: "How to prepare basic dough."
 
 categories: recipes

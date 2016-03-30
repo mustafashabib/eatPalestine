@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Fasoolya Khadra Bi'Zeyt · Green Beans In Olive Oil
+title: Fasoolya Khadra Bi'Zeyt
+subtitle: Green Beans In Olive Oil
 excerpt: "A fresh and lemony green bean and tomato stew."
 
 categories: recipes

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Umboota · Fried Cauliflower
+title: Umboota
+subtitle: Fried Cauliflower
 excerpt: "Deep fried cauliflower florets dusted with sumac, salt, and black pepper."
 
 categories: recipes

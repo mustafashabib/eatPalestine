@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Musakhan · Roasted Chicken With Sumac
+title: Musakhan
+subtitle: Roasted Chicken With Sumac
 excerpt: "Spiced and roasted chicken layered between olive oil soaked bread and onions with an abundance of sumac."
 
 categories: recipes

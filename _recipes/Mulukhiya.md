@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Mulukhiya · Jute Leaf Soup
+title: Mulukhiya
+subtitle: Jute Leaf Soup
 excerpt: "A uniquely delicious and silky soup made of crushed green jute leaf, plenty of fresh cilantro, and garlic."
 
 categories: recipes

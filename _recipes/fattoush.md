@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fattoush · Mixed Salad With Pita Chips And Sumac Dressing
+title: Fattoush_recipes/*.md
 excerpt: "The King of all salads, fattoush - a flavorful mix of vegetables with a creamy sumac dressing."
 
 categories: recipes

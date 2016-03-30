@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Falafel · Chick Pea Fritters
+title: Falafel
+subtitle: Chick Pea Fritters
 excerpt: "Super fresh and crispy falafel recipe. A crunchy brown shell on the outside with a fresh bright green interior."
 
 categories: recipes

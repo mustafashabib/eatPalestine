@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Ftoor · Breakfast
+title: Ftoor
+subtitle: Breakfast
 excerpt: "Breakfast, Palestinian style"
 
 categories: recipes

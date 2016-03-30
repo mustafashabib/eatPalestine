@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Mana'eesh Zaatar · Thyme Flatbread
+title: Mana'eesh Zaatar
+subtitle: Thyme Flatbread
 excerpt: "Flatbreads baked with thyme spice mix, tomatoes, and olive oil."
 
 categories: recipes

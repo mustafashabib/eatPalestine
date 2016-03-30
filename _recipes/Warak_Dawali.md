@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Warak Dawali · Stuffed Grape Leaves
+title: Warak Dawali
+subtitle: Stuffed Grape Leaves
 excerpt: "Lemony rice stuffed grape leaves."
 
 categories: recipes

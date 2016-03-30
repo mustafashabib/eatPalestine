@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Musa'akaa · Layered Fried Eggplant And Tomato
+title: Musa'akaa
+subtitle: Layered Fried Eggplant And Tomato
 excerpt: "Deceptively simple yet delicious casserole made from layered fried eggplant slices in a tomato sauce."
 
 categories: recipes

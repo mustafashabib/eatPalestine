@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Salatet Khiar · Cucumber, Yogurt, and Mint Salad
+title: Salatet Khiar
+subtitle: Cucumber, Yogurt, and Mint Salad
 excerpt: "A simple and delicious mix of cucumbers and mint served in fresh yogurt and olive oil."
 
 categories: recipes

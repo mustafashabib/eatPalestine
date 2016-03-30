@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Booza · Ice Cream
+title: Booza
+subtitle: Ice Cream
 excerpt: "Stretchy Arabic ice cream made with crushed orchid root, mastic gum, and blossom water."
 
 categories: recipes

@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Fatayer Sabanekh · Spinach Pies
+title: Fatayer Sabanekh
+subtitle: Spinach Pies
 excerpt: "Palestinian stuffed savory pies."
 
 categories: recipes
