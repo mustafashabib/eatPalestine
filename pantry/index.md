@@ -1,11 +1,8 @@
 ---
 layout: page
 title: Our Pantry
-excerpt: "How inspiration from and desperation for my mom's cooking brought EAT PALESTINE together."
-image:
-  feature: so-simple-sample-image-4.jpg
+excerpt: "Key ingredients for your pantry to make the recipes found in Eat Palestine."
 
-creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 share: true
 ---
 

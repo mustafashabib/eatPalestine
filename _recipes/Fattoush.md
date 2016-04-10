@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fattoush_recipes/*.md
+title: Fattoush
 excerpt: "The King of all salads, fattoush - a flavorful mix of vegetables with a creamy sumac dressing."
 
 categories: recipes

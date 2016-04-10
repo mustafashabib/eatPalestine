@@ -19,15 +19,35 @@
 
 /* feature image */
 
+.image_full {
+    display: block;
+}
+.image_mobile {
+    display: none;
+}
+
+@include media($large) {
+    .image_mobile {
+        display: none;
+    }
+    .image_full {
+        display: block;
+        margin-top: 0px;
+    }
+}
+
+@include media($medium) {
+    .image_full {
+        display: none;
+    }
+    .image_mobile {
+        display: block;
+    }
+}
+
 .entry-feature-image {
 	margin: 20px 0 0;
 	width: 100%;
-	@include media($medium) {
-		margin-top: -75px; /* move up to be overlapped by site logo */
-	}
-	@include media($large) {
-		margin-top: -145px; /* move up further to be overlapped by site logo */
-	}
 }
 
 /* page header */

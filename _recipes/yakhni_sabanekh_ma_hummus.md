@@ -17,7 +17,8 @@ share: true
 *This was always one of my favorite dishes growing up. It's really easy to make, filling, and delicious with a lot of fresh spring flavors.*
 
 #### Ingredients
-######Makes 6 servings
+
+##### Makes 6 servings
 
 * Fresh Spinach
     - 12 oz
