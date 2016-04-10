@@ -18,7 +18,7 @@ Over the years, my mom has helped introduce cuisine from our family's little cor
 
 In 2013, when Jonnie and I moved to Seattle, we found ourselves without easy access to my mom's dinner table. With a lot of time on our hands and not a lot of options for our favorite meals, we got the idea to put together a little recipe collection of our favorite dishes for ourselves that we could share with our friends and family. Though all of the recipes are found on this site, you can [purchase the booklet](http://www.amazon.com/PALESTINE-Jonnie-Rettele-Mustafa-Shabib/dp/1320291627) at Amazon in case you want it for your bookshelf at home.
 
-These are recipes that I mostly grew up with and I'm sure that if you ask ten Palestinians how to make any of these dishes found here you will likely get ten different responses. For as small of a place Palestine is, you'll find a comically wide range of disagreements from town to town in everything from their accents and vocabulary to the ingredients they use preparing the same dishes.
+These are [recipes](/recipes) that I mostly grew up with and I'm sure that if you ask ten Palestinians how to make any of these dishes found here you will likely get ten different responses. For as small of a place Palestine is, you'll find a comically wide range of disagreements from town to town in everything from their accents and vocabulary to the ingredients they use preparing the same dishes.
 
 You'll also notice that there are many vegetarian or vegan dishes in this book. While that's quite common for Palestinian cuisine, it's even more common at my household since my father has been a strict vegetarian his whole life and so we grew up eating modified  versions of a lot of the classic Palestinian dishes.
 
