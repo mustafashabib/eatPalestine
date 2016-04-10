@@ -63,7 +63,7 @@ titlecase: true
 owner:
   name: Eat Palestine
   avatar: bio-photo.jpg
-  email: #hello@eatpalestine.com
+  email: hello@eatpalestine.com
   disqus-shortname:
   twitter: #eatpalestine
   facebook: #username
@@ -77,7 +77,7 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics:
+    analytics: UA-76202557-1
     verify:
     ad-client:
     ad-slot:
