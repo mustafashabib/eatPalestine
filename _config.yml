@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "baseurl:"
     delicious cooking and so we spent the year recreating her recipes so
     that we could enjoy them in our new home.
 search: true
-url: http://localhost:4000
+url: http://eatpalestine.com
 
 # Jekyll configuration
 collections:
@@ -63,9 +63,9 @@ titlecase: true
 owner:
   name: Eat Palestine
   avatar: bio-photo.jpg
-  email: hello@eatpalestine.com
+  email: #hello@eatpalestine.com
   disqus-shortname:
-  twitter: eatpalestine
+  twitter: #eatpalestine
   facebook: #username
   github: #username
   stackexchange: #username
