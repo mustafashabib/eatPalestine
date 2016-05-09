@@ -7,7 +7,7 @@ excerpt: "Flatbreads baked with thyme spice mix, tomatoes, and olive oil."
 categories: recipes
 tags: [recipes, zaatar, mana'eesh, flatbread, Palestinian, vegan, vegetarian]
 image:
-  feature: ZaatarFlatbread.JPG
+  feature: ZaatarFlatbread.jpg
 comments: false
 share: true
 ---

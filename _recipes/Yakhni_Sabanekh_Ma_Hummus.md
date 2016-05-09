@@ -7,7 +7,7 @@ excerpt: "Lemony stew of fresh spinach, onions, and chick peas."
 categories: recipes
 tags: [recipes, soups, stews, meals, spinach, chick pea, vegan, vegetarian]
 image:
-  feature: SpinachAndChickpeaStew.JPG
+  feature: SpinachAndChickpeaStew.jpg
 comments: false
 share: true
 ---
