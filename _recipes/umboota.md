@@ -10,6 +10,9 @@ image:
   feature: FriedCauliflower_edited.jpg
 comments: false
 share: true
+servings: 4 servings
+ingredients: ['Cauliflower (2 medium heads)', 'Vegetable oil for frying (Around 2 cups)', 'Ground sumac (To taste)', 'Salt and black pepper (To taste)']
+instructions: ['1. Heat the oil in a deep pan or pot.', '2. Break up the cauliflower into their individual florets. For especially big ones, cut them smaller. You want them to be small enough to fry quickly in the amount of oil you have.', "3. Add a few of the florets to the oil and fry until the tops of them are evenly golden brown. The stems typically remain meaty and white even after frying. Once each batch is fried, set it aside, covered, and let it drain as much as you can while you fry the rest. Try to act quickly so they don't get too cold before eating.", "4. To serve, sprinkle some salt, pepper, and ground sumac on top and eat them like french fries. If you're making super deluxe Falafel sandwiches, stuff one or two into your pita and smash it all together."]
 ---
 
 

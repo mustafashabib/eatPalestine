@@ -10,6 +10,9 @@ image:
   feature: GreenBeans_edited.jpg
 comments: false
 share: true
+servings: 4 servings
+ingredients: ['Fresh green beans (2 lbs)', 'Fresh garlic (2 cloves)', 'Yellow onion (1 medium)', 'Fresh tomatoes (3 medium)', 'Olive oil (1 tablespoon, for saut\xc3\xa9ing)', 'Fresh lemon juice (2 or 3 medium lemons, or around 3/4 cup of juice)', 'Parsley (1/2 bunch)']
+instructions: ['1. Wash and trim the ends off of the green beans.', '2. Finely dice the tomatoes and set aside.', '3. Thinly slice the onion and saut\xc3\xa9 the onions until translucent.', '4. While they onions are being saut\xc3\xa9ed, mince the garlic cloves. Once the onions are soft, add the garlic to the pan for a couple of more minutes.', '5. Add the tomatoes and green beans together to the pan.', '6. Add about half the lemon juice to the pan and let it simmer, covered, on low heat for about 45 minutes, until the sauce thickens.', '7. Finely chop the parsley and set aside..', '8. To serve, season with salt and pepper, add the remaining lemon juice, and sprinkle fresh parsley atop everything. The dish can be served warm or at room temperature.']
 ---
 
 

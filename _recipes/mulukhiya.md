@@ -10,6 +10,9 @@ image:
   feature: Molokhia_edited.jpg
 comments: false
 share: true
+servings: 6 servings
+ingredients: ['Mulukhiya leaves (28 oz minced)', 'Yellow onion (1 large)', 'Fresh garlic (6 to 8 cloves)', 'Fresh cilantro (1 bunch)', 'Whole coriander (1 tablespoon)', 'Water or chicken broth (4 cups)', 'Olive oil (1 tablespoon)', 'Ground cardamom (4 or 5 pods)', 'Salt and pepper (To taste)', 'Fresh lemon juice (1 lemon)', 'Fresh Green Chili (1 large)', 'Rice (3 cups cooked)']
+instructions: ["1. Dice and saut\xc3\xa9 the onion in the oil until it's translucent.", '2. In a mortar and pestle grind the coriander and garlic together.', "3. Add the garlic-coriander mixture and fry until the golden. Be careful not to burn the garlic, it'll turn bitter.", '4. Add the fresh cilantro and the minced mulukhiya to the pot and cover with the water or chicken broth.', '5. Add the salt, pepper, and ground cardamom to the soup.', '6. Bring to a boil with the cover off of the soup then let it simmer for 15 or 20 minutes.', '7. To serve, ladle the soup on top of yellow rice (see the recipe for **Ruz**) or break up some pita bread into the bowl. Squeeze some lemon and add as much finely diced green pepper as you like just before eating.']
 ---
 
 

@@ -10,6 +10,9 @@ image:
   feature: CucumberMint_edited.jpg
 comments: false
 share: true
+servings: 8 servings
+ingredients: ['Whole milk yogurt (2 cups)', 'English or Persian cucumbers (2 small Persian or 1 large English cucumber)', 'Dried mint (1 teaspoon)', 'Fresh garlic (optional) (1/2 clove)', 'Salt (1/4 teaspoon)', 'Extra virgin olive oil (1 teaspoon)']
+instructions: ['1. Peel and dice the cucumbers, sprinkle with salt, and let them drain a little bit.', '2. Mince the garlic if you are using any.', '3. Discard any liquid that may have collected on top of the yogurt and mix in the mint, the salt, and the garlic if you decide to use any.  ', '4. Chill the salad and garnish with olive oil before serving.']
 ---
 
 

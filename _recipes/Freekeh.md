@@ -10,6 +10,9 @@ image:
   feature: Freekah_edited.jpg
 comments: false
 share: true
+servings: 8 servings
+ingredients: ['Freekeh (2 cups)', 'Olive oil (1 tablespoon)', 'Dried apricots (1/4 cup)', 'Pine nuts (1/8 cup)', 'Slivered almonds (1/8 cup)', 'Shelled pistachios (1/8 cup)', 'Water (4 cups)', 'Salt (2 teaspoons)']
+instructions: ['1. Wash the freekeh in a colander until the water runs clear and set aside to drain.', '2. Add the olive oil in a small pot on medium heat.', '3. Add the freekeh and salt and saut\xc3\xa9 for a couple of minutes to accentuate the smokey flavor.', '4. Add the water cover the pot, and let it simmer on low heat until all of the water is absorbed. This should take about 20 minutes. About 10 minutes in, add the dried apricots.', '5. While the grain is cooking, brown the nuts in a small pan.', '6. When the freekeh is done cooking, mix in the nuts.']
 ---
 
 
