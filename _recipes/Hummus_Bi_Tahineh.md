@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hummus Bi'Tahineh
-subtitle: Chick Peak with Sesame Paste
+subtitle: Chick Pea with Sesame Paste
 excerpt: "Creamy chick pea and tahini dip full of lemon and a hint of garlic."
 
 categories: recipes
