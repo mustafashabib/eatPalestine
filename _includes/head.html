@@ -61,3 +61,42 @@
 <meta name="msapplication-square150x150logo" content="/mediumtile.png" />
 <meta name="msapplication-wide310x150logo" content="/widetile.png" />
 <meta name="msapplication-square310x310logo" content="/largetile.png" />
+
+
+<script type="application/ld+json">
+ {
+  "@context": "http://schema.org/",
+  "@type": "Recipe",
+  "name": "{{ page.title }}",
+  "image": [
+	"{{ site.url }}/images/lrg_{{ page.image.feature }}"
+	],
+  "author": {
+	"@type": "Person",
+	"name": "Eat Palestine"
+  },
+  "datePublished": "{{ "now" | date: "%Y-%m-%d" }}",
+  "description": "{{ page.excerpt }}",
+  "keywords": "{{ page.tags | join: ', ' }}",
+  "recipeYield": "{{ page.servings }}",
+  "recipeCategory": "{{ page.category }}",
+  "recipeCuisine": "Palestinian, Middle-Eastern",
+  "recipeIngredient": [
+       {{ page.ingredients | join: ', ' }}
+	   ],
+  "recipeInstructions": [
+	  {% assign first_instructions = true %}
+      {% for item in page.instructions %}
+        {% if first_instructions != true %}
+          ,
+        {% else %}
+          {% assign first_instructions = false %}
+        {% endif %}
+        {
+         "@type": "HowToStep",
+         "text": "{{ item }}"
+        }
+      {% endfor %}
+      ]
+}
+</script>

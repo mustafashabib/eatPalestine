@@ -16,6 +16,8 @@ share: true
 
 #### Ingredients
 
+##### Makes 1 serving
+
 -	Ground Coffee
 	-	1 teaspoon per cup of coffee
 -	Sugar (optional)
@@ -23,7 +25,7 @@ share: true
 -	Ground cardamom
 	-	A pinch per cup of coffee. Roughly 1/8 teaspoon per 4 cups, but add more or less to your liking.
 -	Water
-	-	As needed
+	-	1 cup
 
 #### Recipe
 

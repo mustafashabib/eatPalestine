@@ -43,6 +43,7 @@ share: true
 * Fresh Green Chili
     - 1 large
 * Rice
+    - 3 cups cooked
 
 #### Recipe
 

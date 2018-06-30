@@ -26,6 +26,8 @@ share: true
 
 #### Ingredients
 
+##### Makes one jar
+
 -   Fresh Turnips
     - Around 5, medium sized
 -   Beets

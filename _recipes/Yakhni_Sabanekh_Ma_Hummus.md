@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yakhni Sabanekh Ma Hummus
-subtitle: Spinach and Chick Peak Stew
+subtitle: Spinach and Chick Pea Stew
 excerpt: "Lemony stew of fresh spinach, onions, and chick peas."
 
 categories: recipes
@@ -33,6 +33,7 @@ share: true
 * Fresh lemon juice
     - 1 lemon
 * Rice
+    - 3 cups cooked
 
 #### Recipe
 
