@@ -10,6 +10,9 @@ image:
   feature: JerusalemSalad_edited.jpg
 comments: false
 share: true
+servings: enough for a few people
+ingredients: ['English or Persian cucumbers (2 small Persian or 1 large English cucumber)', 'Tomatoes (2 medium)', 'Fresh mint (A few sprigs)', 'Fresh lemon juice (One large lemon or roughly 1/4 cup)', 'Tahini (optional) (2 teaspoon)', 'Salt (1/4 teaspoon)', 'Extra virgin olive oil         (1 tablespoon)']
+instructions: ['1. Peel and dice the cucumbers, sprinkle with salt, and let them drain a little bit.', '2. Finely dice the tomatoes and herbs.', '3. Mince the garlic if you are using any.', '4. Mix everything together in a bowl and let it stand for a half hour or so before serving.  ']
 ---
 
 

@@ -10,6 +10,9 @@ image:
   feature: pickled_turnips.jpg
 comments: false
 share: true
+servings: one jar
+ingredients: ['Fresh Turnips (Around 5, medium sized)', 'Beets (3 medium sized)', 'White Vinegar (2/3 of the jar you are using to pickle)', 'Water (1/3 of the jar you are using to pickle)', 'Salt (3 Tablespoons)']
+instructions: ['1.  Peel and boil the beets. Save some of the water to add to the pickling jar.', '2.  Cut the turnips and the boiled beets into quarters.', '3.  Add the vinegar, water and salt.', "4.  Shake the jar, close it tightly, then place the pickles jars in a sunny area. I place mine on my kitchen window cell. They will be ready in a week's time."]
 ---
 
 *Although Many types of pickled vegetables are available in every market these days, pickling your own vegetables at home is a fun activity with delicious results.*

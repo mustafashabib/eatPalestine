@@ -10,6 +10,9 @@ image:
   feature: breakfast.jpg
 comments: false
 share: true
+servings: breakfast for two
+ingredients: ['Pita Bread (1 or 2 per person)', 'Persian cucumbers (1 or 2 per person)', 'Zaatar, Dukka, Extra virgin olive oil, Olives, and Labneh (A small bowl of each)', 'Halloumi (A few slices)']
+instructions: ['1. Peel and slice the cucumbers.', '2. Warm the pita bread.', '3. Enjoy.']
 ---
 
 

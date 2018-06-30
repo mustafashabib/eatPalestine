@@ -10,6 +10,9 @@ image:
   feature: FriedEggplant_edited.jpg
 comments: false
 share: true
+servings: 6 servings
+ingredients: ['Black Beauty or Italian eggplant (2 large)', 'Yellow onion (1 or 2 medium)', 'Fresh tomato (1 medium)', 'Tomato sauce (1 28 oz. can)', 'Salt and pepper (To taste)', 'Vegetable oil (for frying)']
+instructions: ['1. Cut off the stems of the eggplants and thinly slice them into 1/2 inch thick discs.', '2. Salt the eggplant slices and set them aside to drain for 15-20 minutes.', '3. Heat the oil in a deep skillet and fry the slices in batches until they are golden brown and crispy.', '4. Set the eggplant aside on a paper towel to drain any excess oil out of them.', '5. Preheat your oven to about 350\xc2\xb0F.', '6. Dice the onion and saut\xc3\xa9 until translucent in a sauce pan.', '7. Add the tomato sauce and salt and pepper and let simmer for about five minutes.', '8. Thinly slice the fresh tomato.', '9. In a baking dish, layer the eggplant and spoon sauce over each layer. Arrange the tomato slices on the face of the dish.', '10. Cover the dish with foil and bake for about 45 minutes until the edges are crispy and the sauce has thickened.', '11. Turn on the broiler for the final 5 minutes to brown the top.', '12. You may serve this dish hot or at room temperature with rice on the side.']
 ---
 
 

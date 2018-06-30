@@ -10,6 +10,9 @@ image:
   feature: rice_edited.jpg
 comments: false
 share: true
+servings: 8 servings
+ingredients: ['Rice (3 cups)', 'Olive oil, butter (2 tablespoon)', 'Water (4 1/2 cups)', 'Shareeya (vermicelli noodles) (1/4 cup)', 'Salt (2 teaspoons)']
+instructions: ['1. Wash the rice in a colander until the water runs clear and set aside to drain.', '2. Fry the noodles in one tablespoon of oil until golden and set aside.', '3. Heat the remaining oil in a pot and lightly sauté the rice for a few minutes.', "4. Add the salt and water and bring to a boil, uncovered. If you'd like to make yellow rice, add about two teaspoons of turmeric at this point as well.", '5. Reduce the heat to low, add the noodles, and cover. Let the rice cook without stirring until the crust forms, usually around 15 minutes.', '6. Let the rice sit, covered, for 10 minutes before serving. If you''re bold, invert the pot onto a large dish and lift the pot slowly to get a "cake" of rice.']
 ---
 
 

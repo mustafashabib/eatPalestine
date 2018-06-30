@@ -10,6 +10,9 @@ image:
   feature: FavaBeans_edited.jpg
 comments: false
 share: true
+servings: 6 servings
+ingredients: ['Green fava beans (2 lbs.)', 'Olive oil (2 tablespoons.)', 'Yellow onion (1 large)', 'Fresh cilantro (1 cup, around one bunch.)', 'Fresh garlic (6 cloves)', 'Salt and black pepper (To taste)', 'Fresh lemon (A few slices)']
+instructions: ['1. In a large pan, saut\xc3\xa9 the onions in olive oil until translucent.', '2. Add the shelled broad beans and cook until they are cooked through but still firm, around 30 or 40 minutes. You can add 1/4 cup of water near the end to soften them.', '3. Finely chop the cilantro and mince the garlic while the beans are cooking. Near the end of the cooking time, add them to the pan.', "4. Squeeze a bit of lemon on top of your bowl when you're ready to eat it."]
 ---
 
 
